@@ -1,0 +1,1 @@
+__all__ = ['dz_6_2_check_queen','dz_6_2_gen_queen']
